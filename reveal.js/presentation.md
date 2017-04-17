@@ -13,10 +13,10 @@ April 18, 2017
 
 
 ## Welcome!
-<div class="fragment">Presentation and source available from [qq]</div>
+<div class="fragment">Presentation live at http://churchkey.org/cos/presentation.html</div>
 <div class="fragment"><a href="mailto:ian@churchkey.org">ian@churchkey.org</a></div>
 
-<div class="notes">This presentation is available live on the web right now from my github account.
+<div class="notes">This presentation is available live on the web right now. Source materials are available on my github account, which I'll have a link for at the end of the presentation..
 ...    
 ...    
 If you take one thing away from this presentation I hope it is my email address, ian@churchkey.org.  Should you want to find out more about this topic or discuss any of the items we are going to cover today beyond the QA session, please reach out to me.</div>
@@ -364,6 +364,9 @@ More details about these courses, especially the forthcoming ones, are available
 Ian Sullivan    
 <a href="mailto:ian@churchkey.org">ian@churchkey.org</a>
 
-<div class="fragment">Presentation available from [qq]</div> 
+<div class="fragment">Presentaion sources:
+
+<a href="https://github.com/wikey/cos-practical-steps">github.com/wikey/cos-practical-steps</a></div> 
 
 
+<div class="text-small">Licensed [CC-BY](https://creativecommons.org/licenses/by/4.0/)</div>
