@@ -5,6 +5,7 @@ A presentation written by Ian Sullivan for use by the Center for Open Science [c
 Available for live viewing at: https://churchkey.org/cos/presentation.html
 
 This repository includes a complete checkout of the current version or reveal.js as well as the presentation file and minor custom CSS additions.  All content from reveal.js is licensed under the original MIT license while the presentation file and all other original content, including this README file, are licensed under the Creative Commons 4.0 Attribution license [CC-BY])https://creativecommons.org/licenses/by/4.0/)
+
 ## Components
 
 We here are using pandoc to build a reveal.js presentation as per the
