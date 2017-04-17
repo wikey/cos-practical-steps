@@ -17,8 +17,9 @@ April 18, 2017
 <div class="fragment"><a href="mailto:ian@churchkey.org">ian@churchkey.org</a></div>
 
 <div class="notes">This presentation is available live on the web right now from my github account.
-
-If you take one thing away from this presentation I hope it is my email address there.  Should you want to find out more about this topic or discuss how any of the items we are going to talk about today beyond the QA session, please reach out to me.</div>
+...    
+...    
+If you take one thing away from this presentation I hope it is my email address, ian@churchkey.org.  Should you want to find out more about this topic or discuss any of the items we are going to cover today beyond the QA session, please reach out to me.</div>
 ## Why Open?
 > * Scientific ideal
 > * Practical benefits
