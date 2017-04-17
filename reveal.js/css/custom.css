@@ -8,3 +8,27 @@
     font-size: .5em !important;
     padding-top: 2em !important;
 }
+
+.text-big {
+    font-size: 1.5em !important;
+    margin-bottom: 1em !important;
+}
+
+.headline-short, .headline-medium, .headline-long {
+    font-size: 1.5em;
+    margin-top: -1.5em !important;
+    margin-bottom: .75em !important;
+}
+
+.headline-short, .highlight-green {
+    color: green !important;
+}
+
+.headline-medium, .highlight-yellow {
+    color: yellow !important;
+}
+
+.headline-long, .highlight-red {
+    color: red !important;
+
+}
