@@ -156,6 +156,15 @@ Even if the journals in your field disallow pre-prints, you may be able to publi
 ....
 This quote from the ieee gives some examples of the items you might publish and includes a link to useful licensing advice for these sort of supporting materials since you are often left on your own to select licensing terms for those materials.</div>
 
+## Openness round-up
+> * Open it on a phone
+> * Get a DOI
+> * Publish in the raw
+> * Pre-print
+> * Talk to your local librarians
+> * Publish supporting materials
+
+<div class="notes">Here is a quick recap of these steps to help improve the openness of your work before we move on to looking at ways to improve reproduciability.</div>
 
 # Reproducible
 
@@ -272,6 +281,17 @@ Pre-registering is also a great way to make sure all the supplemental informatio
 Not all journals currently offer these kind of registered reports but this is a long term goal worth working towards.  If registered reports are not yet offered by the journals in your field, I hope you will follow their evolution in neighboring fields with interest. 
 </div>
 
+## Reproduciability round-up
+>* Cite your software
+>* Prefer open tools
+>* Workflow managemnt tools
+>* Control your versions
+>* Re-run on a clean machine
+>* Pre-register: Registered reports
+
+<div class="notes">Let's quicky recap these general steps towards increasing the reproduciability of your work and then we will take a look at one specific tool to see how it can help you take a number of these steps at once.</div>
+
+
 # A Place to start
 
 ## Maximum effect, minimum disruption
@@ -317,14 +337,18 @@ Those capabilities should be extra compelling because
 > * Compatible with your existing data storage and reference management tools
 > * Built by people who care about open and reproducible science
 
-<div class="fragment">https://osf.io</div>
 
 <div class="notes">
 ...
 ...
 ...
-...
 </div>
+
+
+## osf.io
+
+<div class="notes">Just give it a look</div>
+
 
 # References
 
