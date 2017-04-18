@@ -349,6 +349,7 @@ Those capabilities should be extra compelling because
 
 <div class="notes">Just give it a look</div>
 
+# Questions?
 
 # References
 
@@ -357,8 +358,7 @@ Those capabilities should be extra compelling because
 * [reveal.js](http://lab.hakim.se/reveal-js/#/)
 * [git](https://git-scm.com/)
 
-<div class="notes">Going to move through these pretty quickly so we can get to the QA. Again, this presentation and all the source materials are available online and I will put the address up at the end.
-
+<div class="notes">
 Software I used to build this presentation includes pandoc, reveal.js, and git. These are wonderful pieces of software that I encourage others to investigate.</div>
 
 ## Works cited
